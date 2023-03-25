@@ -1,0 +1,6 @@
+[submodule "research/client/telethon"]
+	path = research/client/telethon
+	url = git@github.com:LonamiWebs/Telethon.git
+[submodule "research/client/gotd"]
+	path = research/client/gotd
+	url = git@github.com:gotd/td.git
