@@ -4,3 +4,9 @@
 [submodule "research/client/gotd"]
 	path = research/client/gotd
 	url = git@github.com:gotd/td.git
+[submodule "research/mcp/chigwell"]
+	path = research/mcp/chigwell
+	url = git@github.com:chigwell/telegram-mcp.git
+[submodule "research/mcp/chaindead"]
+	path = research/mcp/chaindead
+	url = git@github.com:chaindead/telegram-mcp.git
